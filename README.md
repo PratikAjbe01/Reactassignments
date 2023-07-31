@@ -1,15 +1,15 @@
-In this assign5ent, you will create a user page si5ilar to Instagra5 using eact functionalities. The pri5ary task
-is to i5ple5ent conditional rendering, allowing users to either sign up or log in depending on their choice. The
+In this assignment, you will create a user page similar to Instagram using eact functionalities. The primary task
+is to isplement conditional rendering, allowing users to either sign up or log in depending on their choice. The
 user interface should show different input fields based on their selection. If they choose to sign up, additional
-inputs for registration will be displayed. On the other hand, if they opt for login, only the basic userna5e and
+inputs for registration will be displayed. On the other hand, if they opt for login, only the basic username and
 password inputs should be visible.
 
-1. A well-organized eact application with clear co5ponent structure
-2 The user interface should display the following co5ponents:
-a. Instagra5 Logo
+1. A well-organized eact application with clear component structure
+2 The user interface should display the following components:
+a. Instagram Logo
 b. A button to switch between sign up and login views
-c. Basic input fields for userna5e and password
-d. If the user chooses to sign up, additional input fields for na5e, e5ail, etc., should be displayed.
+c. Basic input fields for username and password
+d. If the user chooses to sign up, additional input fields for name, email, etc., should be displayed.
 
 # React + Vite
 
